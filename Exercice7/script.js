@@ -138,3 +138,38 @@ function displayProductsInConsole() {
 }
 
 displayProductsInConsole();
+
+console.log("Exercice 6 chargé ✅")
+
+
+let objets = [
+    {
+        id: 1,
+        name: "pull",
+        priceHT: 16,
+        description: "super pull achetez svp",
+        Image:
+    },
+
+    {
+        id: 2,
+        name: "jupe",
+        priceHT: 20,
+        description: "jupe mignonne",
+        Image:9
+    },
+
+    {
+        id: 3,
+        name: "gants",
+        priceHT: 5,
+        description: "gants mims",
+        Image:
+    },
+];
+
+const meow = document.getElementById("product-list");
+
+
+
+
